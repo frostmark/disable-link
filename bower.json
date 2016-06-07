@@ -1,0 +1,20 @@
+{
+  "name": "disable-link",
+  "homepage": "https://github.com/frostmark/disable-link",
+  "authors": [
+    "Mark Frost <cheerful.mf@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
