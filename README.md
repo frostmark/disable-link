@@ -1,3 +1,3 @@
 
 ##how to use
-  `$('.disableLink').disableLink();`
+  `$('.selector').disableLink();`
